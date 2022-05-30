@@ -1,8 +1,10 @@
-# Kaggle-Notebooks
-## Index
-### [1. COVID Info and Analysis](#1.-Covid-Info-and-Analysishttps://www.kaggle.com/tanavbajaj/covid-info-and-analysis)
+# List of Kaggle Notebooks
+#### 1. COVID Info and Analysis
+#### 2. Anime Recommendation System
+#### 3. SONAR: Rock Vs Mine Classification
 
-## Details
+# Overview of Notebooks
+
 ### 1. [Covid Info and Analysis](https://www.kaggle.com/tanavbajaj/covid-info-and-analysis)
 
 - Overview
